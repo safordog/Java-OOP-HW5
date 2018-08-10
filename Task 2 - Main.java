@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Напишите программу, которая примет на вход два
+ * текстовых файла, а вернет один. Содержимым этого файла
+ * должны быть слова, которые одновременно есть и в первом и
+ * во втором файле.
  */
 package homework5a;
 
