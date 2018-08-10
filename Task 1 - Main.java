@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Напишите программу, которая скопирует файлы с заранее
+ * определенным расширением(например, только doc) из
+ * каталога источника в каталог приемник.
  */
 package homework5;
 
